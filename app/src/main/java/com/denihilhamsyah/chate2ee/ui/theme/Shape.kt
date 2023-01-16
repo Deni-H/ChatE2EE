@@ -1,4 +1,4 @@
-package com.denihilhamsyah.chate2ee.ui.theme
+package com.denihilhamsyah.chate2ee.presentation.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

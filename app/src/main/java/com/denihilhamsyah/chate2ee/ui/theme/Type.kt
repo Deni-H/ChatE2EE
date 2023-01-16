@@ -1,4 +1,4 @@
-package com.denihilhamsyah.chate2ee.ui.theme
+package com.denihilhamsyah.chate2ee.presentation.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
